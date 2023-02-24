@@ -22,7 +22,7 @@ type, i.e. 4 different group, of the posting based on the words in this posting.
 Part II. Spectral Clustering (PCA + K-means)on 20newsgroup Data
 
 
-Part III. Classification on MNIST Data
+Part III. Classification on MNIST Data (The dataset needs to be downloaded from the publice source)
 
 
 Dataset: MNIST/train_resized.csv, MNIST/test_resized.csv
